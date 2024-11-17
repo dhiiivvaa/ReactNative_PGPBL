@@ -1,0 +1,58 @@
+{
+  "mahasiswa": [
+    {
+      "id": "2",
+      "first_name": "Dhiva",
+      "last_name": "Nur Isnaeni",
+      "email": "dhivanurisnaeni@mail.ugm.ac.id",
+      "kelas": "B",
+      "gender": "female",
+      "latitude": -7.469566041336939,
+      "longitude": 110.22182830850466
+    },
+    {
+      "id": "3",
+      "email": "leejenoGANTENG@mail.ugm.ac.id"
+    },
+    {
+      "id": "9668",
+      "first_name": "Lee",
+      "last_name": "Jeno",
+      "email": "jeno@mail.ugm.ac.id",
+      "kelas": "B",
+      "gender": "Male"
+    },
+    {
+      "id": "e4f4",
+      "first_name": "Duan",
+      "last_name": "Jiaxu",
+      "email": "duanjiaxu@mail.ugm.ac.id",
+      "kelas": "B",
+      "gender": "Male"
+    },
+    {
+      "id": "d009",
+      "first_name": "Wong",
+      "last_name": "Lucas",
+      "email": "wongyukhei@gmail.com",
+      "kelas": "A",
+      "gender": "Male"
+    },
+    {
+      "id": "b42b",
+      "first_name": "Jung",
+      "last_name": "Wooyoung",
+      "email": "jungwooyoung@gmail.com",
+      "kelas": "B",
+      "gender": "Male"
+    },
+    {
+      "id": "edf1",
+      "first_name": "goyoungjung",
+      "last_name": "",
+      "email": "goyoungjung@gmail.com",
+      "kelas": "B",
+      "gender": "Female"
+    }
+  ]
+}
